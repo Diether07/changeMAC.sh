@@ -1,4 +1,9 @@
 #!/bin/bash
+# Programmer: Diether07
+# Purpose: To apply what I learn in Linux 
+# Date: 4/15/2022
+
+#Before you start plase use root 
 #pirnt interface address
 sudo ifconfig -a
 #Print MAC address
